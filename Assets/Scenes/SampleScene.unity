@@ -348,11 +348,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 048ef3e5c463dd04ea16305de54258cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Repeats: -1
+  Duration: 3
+  LoopType: 1
+  EaseType: 1
   _text: {fileID: 520706270}
-  _duration: 3
-  _repeats: -1
-  _loopType: 1
-  _easeType: 1
   _scrambleMode: 1
 --- !u!1 &627938103
 GameObject:
@@ -386,10 +386,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 219e4cc68d4d02d47a580a454fefa36f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _repeats: -1
-  _duration: 3
-  _loopType: 1
-  _easeType: 1
+  Repeats: -1
+  Duration: 3
+  LoopType: 1
+  EaseType: 1
   _targetScale: {x: 2, y: 2, z: 2}
 --- !u!136 &627938105
 CapsuleCollider:
@@ -593,11 +593,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c994af1cf7cc150408f61f6eb70c3135, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _repeats: -1
-  _duration: 3
+  Repeats: -1
+  Duration: 3
+  LoopType: 0
+  EaseType: 1
   _rotation: {x: 0, y: 360, z: 0}
-  _loopType: 0
-  _easeType: 1
   _rotateMode: 3
 --- !u!65 &1244458551
 BoxCollider:
@@ -824,11 +824,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c994af1cf7cc150408f61f6eb70c3135, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _repeats: -1
-  _duration: 3
+  Repeats: -1
+  Duration: 3
+  LoopType: 0
+  EaseType: 1
   _rotation: {x: 0, y: 360, z: 0}
-  _loopType: 0
-  _easeType: 1
   _rotateMode: 3
 --- !u!114 &1848571363
 MonoBehaviour:
@@ -842,10 +842,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 219e4cc68d4d02d47a580a454fefa36f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _repeats: -1
-  _duration: 3
-  _loopType: 1
-  _easeType: 1
+  Repeats: -1
+  Duration: 3
+  LoopType: 1
+  EaseType: 1
   _targetScale: {x: 2, y: 2, z: 2}
 --- !u!114 &1848571364
 MonoBehaviour:
@@ -859,11 +859,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80d8879bbb902647bba474ee7f49f91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Repeats: -1
+  Duration: 3
+  LoopType: 1
+  EaseType: 1
   _position: {x: -0.6200004, y: 5, z: 0}
-  _duration: 3
-  _repeats: -1
-  _loopType: 1
-  _easeType: 1
 --- !u!65 &1848571365
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -985,11 +985,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80d8879bbb902647bba474ee7f49f91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Repeats: -1
+  Duration: 3
+  LoopType: 1
+  EaseType: 1
   _position: {x: 4.18, y: 5, z: 0}
-  _duration: 3
-  _repeats: -1
-  _loopType: 1
-  _easeType: 1
 --- !u!135 &1852195262
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1111,11 +1111,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae67fc969e051434eb8b1e5ed21f1aef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Repeats: -1
+  Duration: 3
+  LoopType: 1
+  EaseType: 1
   _color: {r: 0, g: 0, b: 0, a: 0}
-  _duration: 3
-  _repeats: -1
-  _loopType: 1
-  _easeType: 1
 --- !u!136 &1954587580
 CapsuleCollider:
   m_ObjectHideFlags: 0
